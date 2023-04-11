@@ -2,10 +2,7 @@
 
 Prerequisite test for taking the Machine Learning course ES654 at Indian Institute of Technology Gandhinagar (IITGN).
 
-
-
 # Instructions
-
 
 1. This test is open book, open internet, open notes. You can use any resources you want to solve the problems.
 2. You should be typing your answers in a Jupyter notebook. 
@@ -17,9 +14,6 @@ Prerequisite test for taking the Machine Learning course ES654 at Indian Institu
 8. Some questions may require you to answer in text. You can use markdown cells to write your answers. Some questions may require you to write code. You can use code cells to write your code. Some questions may require you to write mathematical expressions. You can use LaTeX to write your expressions. You can write such LaTeX expressions in markdown cells.
 9. For any other questions, please ask on the General channel on Slack.
 
-
-
---- 
 
 # Questions
 1. How many multiplications and additions do you need to perform a matrix multiplication between a (n, k) and (k, m) matrix? Explain.
